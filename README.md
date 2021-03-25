@@ -3,6 +3,10 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.printl("Hello Worlddddddd");
+        System.out.println("Hello Worlddddddd");
+    }
+    
+    public void print(){
+    System.out.println("Hello");
     }
 }
