@@ -11,5 +11,10 @@ public class Main {
     }
     
     public void bghello(){
-    System.out.println("Zdravey");
+    System.out.println("Zdravey");}
+
+    public void printSecond(){
+    System.out.println("Hi!");
+    }
+
 }
