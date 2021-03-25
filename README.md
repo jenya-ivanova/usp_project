@@ -9,4 +9,7 @@ public class Main {
     public void print(){
     System.out.println("Hello");
     }
+    
+    public void bghello(){
+    System.out.println("Zdravey");
 }
